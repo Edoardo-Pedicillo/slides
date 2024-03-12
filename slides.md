@@ -1,5 +1,5 @@
 ---
-theme: purplin
+# theme: purplin
 
 class: text-center
 lineNumbers: false
